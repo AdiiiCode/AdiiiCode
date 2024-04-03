@@ -34,8 +34,8 @@
 <br>
 <p><a href="https://ko-fi.com/adiiicode"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adiiicode" /></a></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiiicode&show_icons=true&locale=en&layout=compact" alt="adiiicode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiiicode&show_icons=true&locale=en&layout=compact" alt="adiiicode" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiiicode&show_icons=true&locale=en" alt="adiiicode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiiicode&show_icons=true&locale=en" alt="adiiicode" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiiicode&" alt="adiiicode" /></p>
