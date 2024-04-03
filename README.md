@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AdiiiCode
 - 👀 I’m interested in MERN
+- 👀 I'm a Web Developer + App Developer 
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me adiii._.x 
